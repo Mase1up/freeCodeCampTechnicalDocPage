@@ -18,7 +18,8 @@ Currently it looks great, but 2 issues:
     When setting position: fixed;
         It sends ALL my everything else off the rails
 
-2. I can't make background on <code> fill the entire width
+2. I can't make background on code element fill the entire width.
+    Also want a breakline in the code element that doesn't destroy formatting.
     Tried:
         code {
             width: 100%;
